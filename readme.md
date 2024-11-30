@@ -1,0 +1,3 @@
+# Shopping List
+
+JavaScript Practice
